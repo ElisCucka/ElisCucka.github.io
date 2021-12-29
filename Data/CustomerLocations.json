@@ -1,25 +1,25 @@
 {
   "C1": {
     "name": "Ben Hoffman",
-    "address": "1479 Lafayette Ave, Columbus, Indiana, 47201",
+    "address": "1479 Lafayette Ave",
     "lat": "32.361538",
     "long": "-86.279118"
   },
   "C2": {
     "name": "David Nelly",
-    "address": "2418 California St, Columbus, Indiana, 47202",
+    "address": "2418 California St",
     "lat": "58.301935",
     "long": "-134.419740"
   },
   "C3": {
     "name": "Atharva Desai",
-    "address": "3898 Washington St, Columbus, Indiana, 47201",
+    "address": "3898 Washington St",
     "lat": "33.448457",
     "long": "-112.073844"
   },
   "C4": {
     "name": "Everardo Aguilar",
-    "address": "4712 14th St, Colubmus, Indiana, 47203",
+    "address": "4712 14th St",
     "lat": "34.736009",
     "long": "-92.331122"
   }
