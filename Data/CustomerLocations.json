@@ -2,25 +2,25 @@
   "C1": {
     "name": "Ben Hoffman",
     "address": "1479 Lafayette Ave",
-     "lat": "50.659829",
-    "long": "-38.781339"
+      "lat": "42.259829",
+    "long": "-73.581339"
   },
   "C2": {
     "name": "David Nelly",
     "address": "2418 California St",
-     "lat": "39.659829",
-    "long": "-69.781339"
+       "lat": "42.759829",
+    "long": "-73.481339"
   },
   "C3": {
     "name": "Atharva Desai",
     "address": "3898 Washington St",
-      "lat": "42.659829",
-    "long": "-70.781339"
+  "lat": "42.659829",
+    "long": "-73.881339"
   },
   "C4": {
     "name": "Everardo Aguilar",
     "address": "4712 14th St",
-      "lat": "45.659829",
+       "lat": "42.759829",
     "long": "-73.781339"
   },
   
